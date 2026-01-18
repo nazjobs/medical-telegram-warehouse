@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: medical_dw
+    schema: raw
+    tables:
+      - name: telegram_messages
