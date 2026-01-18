@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.session
+*.session-journal
+data/
+logs/
+.DS_Store
+dbt_packages/
+target/
