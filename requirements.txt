@@ -5,3 +5,8 @@ psycopg2-binary
 sqlalchemy
 dbt-postgres
 tqdm
+ultralytics
+opencv-python-headless
+dagster
+dagster-webserver
+dagster-postgres
